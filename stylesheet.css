@@ -1,3 +1,23 @@
+/*header*/
+
+.cabeçalho{
+    background-color: blueviolet;
+}
+
+.img{
+    float: left;
+    width: 25%;
+}
+
+.titulo-principal,
+p{
+    font-optical-sizing: "Open Sans Condensed", "Arial", sans-serif;
+    text-align: center;
+    color: aliceblue;
+}
+
+/*header*/
+
 body{
     background-color: rgb(32, 32, 32);
 }
